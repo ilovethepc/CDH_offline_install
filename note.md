@@ -2,7 +2,7 @@
 首选准备下载以下文件，可以在官方找到下载链接
 [Cloudera Manager安装包](https://archive.cloudera.com/cm6/6.3.1/repo-as-tarball/cm6.3.1-redhat7.tar.gz)
 [CDH相关](https://archive.cloudera.com/cdh6/6.3.2/parcels/)
-[Mysql下载](https://dev.mysql.com/downloads/mysql/5.7.html)，如图选择![mysql下载](https://github.com/ilovethepc/CDH_offline_install/blob/master/mysql%E4%B8%8B%E8%BD%BD%E9%80%89%E6%8B%A9%E5%9B%BE.png ''mysql下载时选择'')
+[Mysql下载](https://dev.mysql.com/downloads/mysql/5.7.html)，如图选择![mysql下载](https://github.com/ilovethepc/CDH_offline_install/blob/master/mysql%20download%20choose.png ''mysql下载时选择'')
 下载完成后的文件列表应该是这样的
 ```
 cloudera-manager-agent-6.3.1-1466458.el7.x86_64.rpm
