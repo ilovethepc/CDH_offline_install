@@ -1,4 +1,4 @@
-#**CentOS 7离线安装CDH：**
+# **CentOS 7离线安装CDH：**
 ---
 - ## **系统环境准备** ##
 - 关闭防火墙(所有节点)
@@ -27,9 +27,9 @@
    - [Cloudera Manager安装包](https://archive.cloudera.com/cm6/6.3.1/repo-as-tarball/cm6.3.1-redhat7.tar.gz)
    - [CDH相关](https://archive.cloudera.com/cdh6/6.3.2/parcels/)
    - [Mysql下载](https://dev.mysql.com/downloads/mysql/5.7.html)，Mysql档案管如图选择
-	![mysql下载](./mysql_download_choose.png ''mysql下载时选择'')
+	![mysql下载](./mysql_download_choose.png 'mysql下载时选择')
    - [mysql connector下载](https://downloads.mysql.com/archives/c-j/)
-	![mysql下载](./mysql_connector_download.png ''mysql下载时选择'')
+	![mysql下载](./mysql_connector_download.png 'mysql下载时选择')
    - [Oracle JDK8下载地址](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
 - 下载完成后的文件列表应该是这样的
    - cm部分
